@@ -1,0 +1,2 @@
+# BookInventoryManagerOOP
+Simple OOP training
