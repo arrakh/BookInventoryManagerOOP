@@ -1,0 +1,14 @@
+E:\Projectss\BookstoreInventorySystem\bin\Debug\net7.0\BookstoreInventorySystem.exe
+E:\Projectss\BookstoreInventorySystem\bin\Debug\net7.0\BookstoreInventorySystem.deps.json
+E:\Projectss\BookstoreInventorySystem\bin\Debug\net7.0\BookstoreInventorySystem.runtimeconfig.json
+E:\Projectss\BookstoreInventorySystem\bin\Debug\net7.0\BookstoreInventorySystem.dll
+E:\Projectss\BookstoreInventorySystem\bin\Debug\net7.0\BookstoreInventorySystem.pdb
+E:\Projectss\BookstoreInventorySystem\obj\Debug\net7.0\BookstoreInventorySystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projectss\BookstoreInventorySystem\obj\Debug\net7.0\BookstoreInventorySystem.AssemblyInfoInputs.cache
+E:\Projectss\BookstoreInventorySystem\obj\Debug\net7.0\BookstoreInventorySystem.AssemblyInfo.cs
+E:\Projectss\BookstoreInventorySystem\obj\Debug\net7.0\BookstoreInventorySystem.csproj.CoreCompileInputs.cache
+E:\Projectss\BookstoreInventorySystem\obj\Debug\net7.0\BookstoreInventorySystem.dll
+E:\Projectss\BookstoreInventorySystem\obj\Debug\net7.0\refint\BookstoreInventorySystem.dll
+E:\Projectss\BookstoreInventorySystem\obj\Debug\net7.0\BookstoreInventorySystem.pdb
+E:\Projectss\BookstoreInventorySystem\obj\Debug\net7.0\BookstoreInventorySystem.genruntimeconfig.cache
+E:\Projectss\BookstoreInventorySystem\obj\Debug\net7.0\ref\BookstoreInventorySystem.dll
